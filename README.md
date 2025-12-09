@@ -3,7 +3,7 @@ I'm a fresh graduate with a strong interest in IT infrastructure and DevOps prac
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/essam reda](https://www.facebook.com/share/1bfDfgDX6R/)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/essamreda7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/essam-reda-356290193)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://www.facebook.com/share/1bfDfgDX6R/](https://www.facebook.com/share/1bfDfgDX6R/)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/essamreda7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/essam-reda-356290193)
  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/essamreda7) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@essam_reda7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/essam_reda7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:essamreda774@gmail.com) 
 
 # 💻 Tech Stack:
