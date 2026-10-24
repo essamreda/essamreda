@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm a fresh graduate with a strong interest in IT infrastructure and DevOps practices. I have hands-on skills in CCNA fundamentals, Linux administration, Python scripting, and Git/GitHub. I enjoy learning, solving technical problems, and building practical labs to improve my knowledge. I'm looking for an opportunity to grow, develop my skills, and contribute to a technical team.
+# Hi, I'm Essam Reda Sabry 👋
+
+**Systems Administrator | Python & AI Automation** based in Makkah, Saudi Arabia.
+
+I'm an IT professional with hands-on experience in Windows and Linux administration, Active Directory, and networking (CCNA level). I write Python and Bash scripts to automate IT workflows, and I use AI tools and LLMs to make repetitive tasks faster and smarter.
+
+## 🛠️ Skills
+- **Systems & Networking:** Windows/Linux, Active Directory, LAN/WAN, Cisco, VMware, Packet Tracer
+- **Automation & Development:** Python, Bash, Git/GitHub, Django
+- **AI & Automation:** Prompt engineering, AI-assisted scripting, workflow automation
 
 
 ## 🌐 Socials:
